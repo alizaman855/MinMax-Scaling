@@ -1,0 +1,2 @@
+# MinMax-Scaling
+Normalization is technique often applied as part of data preparation for machine learning. The goal of normalization is to change the values of numeric columns in the dataset to use a common scale, without distorting differences in the range of values or losing information. We have use MinMax Scaling to Normalize the dataset and then apply the Logistic Regression to check the difference between simple and scaled data
